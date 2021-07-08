@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+I'm just a student who learn web-dev myself
+
+You can see some my project [here](https://slpakkie.github.io)
+
+- 🔭 I’m currently working on [`snake-js`](https://github.com/slpakkie/snake-js) ([demo](https://slpakkie.github.io/snake-js))
+- ⚡ Fun fact: I was a participant in the WSR national final
+
 <!--
 **slpAkkie/slpakkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
