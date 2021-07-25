@@ -4,7 +4,7 @@ I'm just a student who learn web-dev myself
 
 You can see some my project [here](https://slpakkie.github.io)
 
-- 🔭 I’m currently working on [`GEngine`](https://github.com/slpakkie/gengine-js)
+- 🔭 I’m currently working on [`GEngine`](https://github.com/slpakkie/gengine-js), [`SkyNotes`](https://github.com/slpakkie/sky-notes), [`Snake-JS`](https://github.com/slpakkie/snake-js)
 - ⚡ Fun fact: I was a participant in the WSR national final
 
 <!--
