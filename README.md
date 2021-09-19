@@ -5,7 +5,7 @@ I'm just a student who learn web-dev myself
 You can see some my project [here](https://slpakkie.github.io)
 
 - 🔭 I’m currently working on [`SkyNotes`](https://github.com/slpakkie/sky-notes)
-- ⚡ Fun fact: I was a participant in the WSR national final
+- 🌱 I’m currently learning Vue, Laravel and docker
 
 <!--
 **slpAkkie/slpakkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
