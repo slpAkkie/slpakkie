@@ -4,7 +4,7 @@ I'm just a student who learn web-dev myself
 
 You can see some my project [here](https://slpakkie.github.io)
 
-- 🔭 I’m currently working chillin'
+- 🔭 I’m currently chillin'
 - 🌱 I’m currently learning Vue, Laravel and docker
 
 <!--
