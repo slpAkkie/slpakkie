@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I'm just a student who learn web-dev myself
+I'm just a coder who wants to do something impressive
 
-You can see some my project [here](https://slpakkie.github.io)
+You can see some my projects [here](https://slpakkie.github.io)
 
-- 🔭 I’m currently work on my diploma
-- 🌱 I’m currently learning Vue, Laravel and docker
+- 👋 I’m Alexandr from Russia, Nizhniy Novgorod.
+- 🔭 I’m currently free
+- 🌱 I’m learning Vue, Laravel and docker
+- 📫 How to reach me: [@slpakkie](https://t.me/slpAkkie)
 
 <!--
 **slpAkkie/slpakkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
