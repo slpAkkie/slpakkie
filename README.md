@@ -5,7 +5,7 @@ I'm just a coder who wants to do something impressive
 You can see some my projects [here](https://slpakkie.github.io)
 
 - 👋 I’m Alexandr from Russia, Nizhniy Novgorod.
-- 🔭 I’m currently free
+- 🔭 I’m currently study in GAZ IT-academy
 - 🌱 I’m learning Vue, Laravel and docker
 - 📫 How to reach me: [@slpakkie](https://t.me/slpAkkie)
 
