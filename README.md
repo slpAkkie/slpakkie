@@ -6,6 +6,7 @@ You can see some my projects [here](https://slpakkie.github.io)
 
 - 👋 I’m Alexandr from Russia, Nizhniy Novgorod.
 - 🔭 I’m currently study in GAZ IT-academy
+- ⚡ I’m currently working on [TicketDesk](https://github.com/slpAkkie/TicketDesk)
 - 🌱 I’m learning Vue, Laravel and docker
 - 📫 How to reach me: [@slpakkie](https://t.me/slpAkkie)
 
